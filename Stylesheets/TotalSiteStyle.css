@@ -1,0 +1,7 @@
+/*********
+ * This stylesheet should only be used for styling applied to the entire site, not specific pages
+*/
+
+.navbar-nav > li {
+    font-size: 1.4em !important;
+}
